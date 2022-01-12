@@ -4,7 +4,7 @@
 
 > 3D Printing Guide: [Guide Thor v2.1.1](http://thor.angel-lm.com/documentation/3d-printing-guide/)
 
-> Suddivisione_stampa: https://docs.google.com/spreadsheets/d/1N0ZTyIB5YOElHCHHf0GNEOdLhTTwjY55YA9qGiu-hVw/edit?usp=sharing
+> Suddivisione_stampa: [link a G.sheet]https://docs.google.com/spreadsheets/d/1N0ZTyIB5YOElHCHHf0GNEOdLhTTwjY55YA9qGiu-hVw/edit?usp=sharing
 
 - [ ] Art1Body.stl
 - [ ] Art1Bot.stl
