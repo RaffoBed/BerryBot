@@ -1,5 +1,5 @@
 
-- [ ] Example
+- [x] Example
 - [ ] Art1Body.stl
 - [ ] Art1Bot.stl
 - [ ] Art1FanHolder.stl
