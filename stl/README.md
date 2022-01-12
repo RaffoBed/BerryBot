@@ -1,4 +1,4 @@
-# .stl Files for Robotic Arm
+# Files .stl for Robotic Arm
 
 > Credits: [Thor v2.1.1](http://thor.angel-lm.com)
 
