@@ -1,7 +1,7 @@
 # Files .stl for Robotic Arm
 
 > Credits: [Home Thor v2.1.1](http://thor.angel-lm.com)
-> 
+
 > 3D Printing Guide: [Guide Thor v2.1.1](http://thor.angel-lm.com/documentation/3d-printing-guide/)
 
 - [ ] Art1Body.stl
