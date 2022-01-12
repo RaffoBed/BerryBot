@@ -1,7 +1,8 @@
 # .stl Files for Robotic Arm
-> Credit: [Thor v2.1.1](http://thor.angel-lm.com)
 
-- [x] Example
+> Credits: [Thor v2.1.1](http://thor.angel-lm.com)
+
+
 - [ ] Art1Body.stl
 - [ ] Art1Bot.stl
 - [ ] Art1FanHolder.stl
