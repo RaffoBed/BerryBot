@@ -6,7 +6,7 @@
 
 > Suddivisione_stampa: [link a G.sheet](https://docs.google.com/spreadsheets/d/1N0ZTyIB5YOElHCHHf0GNEOdLhTTwjY55YA9qGiu-hVw/edit?usp=sharing)
 
-- [x] Art1Body.stl
+- [ ] Art1Body.stl
 - [ ] Art1Bot.stl
 - [ ] Art1FanHolder.stl
 - [ ] Art1GearMotor.stl
