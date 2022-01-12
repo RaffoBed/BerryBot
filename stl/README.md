@@ -1,4 +1,5 @@
 # .stl Files for Robotic Arm
+> Credit: [Thor v2.1.1](http://thor.angel-lm.com)
 
 - [x] Example
 - [ ] Art1Body.stl
