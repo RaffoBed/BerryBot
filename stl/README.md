@@ -1,4 +1,4 @@
-# Files for the Robotic arm
+# .stl Files for Robotic Arm
 
 - [x] Example
 - [ ] Art1Body.stl
