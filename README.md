@@ -1,3 +1,5 @@
 # BerryBot
 
-### Collaborators: @BarbanR @DEPAX0
+@BarbanR 
+
+@DEPAX0
